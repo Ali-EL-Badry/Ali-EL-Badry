@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="AiBaK" />
+</h1>
+
 <h1 align='center'>
    Hi there 👋 I'm Ali El-Badry 👨‍💻
 </h1>
