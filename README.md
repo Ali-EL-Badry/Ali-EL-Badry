@@ -30,6 +30,10 @@
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=Ali-EL-Badry&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ![](https://gifdb.com/images/high/programming-coding-is-fun-fiery-louise-belcher-f76463c1e6wnifej.gif)
 <!--
 **Ali-EL-Badry/Ali-EL-Badry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
