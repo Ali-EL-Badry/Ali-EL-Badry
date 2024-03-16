@@ -28,6 +28,7 @@
 <div align="center">
 <img src="./pacman.gif" width=1000></img> </div> <br/>
 
+![](https://gifdb.com/images/high/programming-coding-is-fun-fiery-louise-belcher-f76463c1e6wnifej.gif)
 <!--
 **Ali-EL-Badry/Ali-EL-Badry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
