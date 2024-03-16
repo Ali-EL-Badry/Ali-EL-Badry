@@ -1,3 +1,6 @@
+<h1 align="center">
+  <img src="[https://loading.io/asset/729022]" alt="AiBaK" />
+</h1>
 
 <h1 align='center'>
    Hi there 👋 I'm Ali El-Badry 👨‍💻
