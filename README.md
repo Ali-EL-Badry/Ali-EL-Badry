@@ -1,4 +1,6 @@
-# Ali Elbadry..✨
+<h1 align='center'>
+  # Hi there 👋 I'm Ali El-Badry 👨‍💻
+</h1>
 -  The official account of ALi ELbadry
 -  Ramdan Karem ..✨
 ## About Me..💫 
