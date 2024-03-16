@@ -3,7 +3,7 @@
 -  Ramdan Karem ..✨
 ## About Me..💫 
 -  I’m currently learning in FCAI-CU 🌱
--  A Problem solver by cpp
+-  A Problem solver by CPP
 -  A Future Software Engineer 👨‍💻
 -  Fun fact: I love making Arabic Poems ( she3r ) ⚡
 ## My Social Media...
@@ -15,6 +15,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aly_aibak?igsh=Zm01ZHpsMzRwbTMw)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ali.yasser.77312477/)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alyaibak?_t=8kj4447wM6P&_r=1)
+## 💻 Tech Stack
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <!--
 **Ali-EL-Badry/Ali-EL-Badry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
