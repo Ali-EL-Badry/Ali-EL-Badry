@@ -1,3 +1,5 @@
+<div align="center">
+<img src="./Toji Fushiguro Toji Jjk GIF - Toji fushiguro Toji jjk Jujutsu kaisen - Discover & Share GIFs.gif" width=300></img> </div> <br/>
 
 <h1 align='center'>
    Hi there 👋 I'm Ali El-Badry 👨‍💻
