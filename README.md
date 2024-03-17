@@ -7,9 +7,6 @@
 
 -  The official account of ALi ELbadry
 -  Ramdan Karem ..✨
-
-![](https://loading.io/asset/729022)
-
 ## About Me..💫 
 -  I’m currently learning in FCAI-CU 🌱
 -  A Problem solver by CPP
