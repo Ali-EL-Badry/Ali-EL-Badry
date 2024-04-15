@@ -7,8 +7,7 @@
 
 -  The official account of ALi ELbadry
 
-<div align='center'>
-    ﷺ🤎✨(صلِّ على سيدنا محمد)
+<div align='center'>(صلِّ على سيدنا محمد)ﷺ🤎✨
 </div>
 
 ## About Me..💫 
