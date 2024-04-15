@@ -42,9 +42,7 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=Ali-EL-Badry&icon=0&color=0)](https://visitcount.itsvg.in)
-<div align='center'>
-   ![](https://gifdb.com/images/high/information-technology-fast-typing-cat-hxina358ltdzrydf.gif)
-</div>
+![](https://gifdb.com/images/high/information-technology-fast-typing-cat-hxina358ltdzrydf.gif)
 <!--
 **Ali-EL-Badry/Ali-EL-Badry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
