@@ -6,9 +6,11 @@
 </h1>
 
 -  The official account of ALi ELbadry
+
 <div class="centered-text">
-    <p>ﷺ🤎✨(صلِّ على سيدنا محمد)</p>
+    ﷺ🤎✨(صلِّ على سيدنا محمد)
 </div>
+
 ## About Me..💫 
 -  I’m currently learning in FCAI-CU 🌱
 -  A Problem solver by CPP
