@@ -6,7 +6,8 @@
 </h1>
 
 -  The official account of ALi ELbadry
--  #=====================>> The One Who left it all behind...🔥 <<=====================# 
+-  الحاله اليومية :
+(صلِّ على سيدنا محمد) ﷺ🤎✨
 ## About Me..💫 
 -  I’m currently learning in FCAI-CU 🌱
 -  A Problem solver by CPP
