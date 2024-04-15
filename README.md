@@ -7,7 +7,7 @@
 
 -  The official account of ALi ELbadry
 -  الحاله اليومية :
-(صلِّ على سيدنا محمد) ﷺ🤎✨
+-  (صلِّ على سيدنا محمد) ﷺ🤎✨
 ## About Me..💫 
 -  I’m currently learning in FCAI-CU 🌱
 -  A Problem solver by CPP
