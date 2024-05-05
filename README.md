@@ -11,10 +11,6 @@
 </div>
 
 ## About Me..💫
-<div align="right">   
-<img src= "https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width=300 />
-</div>
-
 -  I’m currently learning in FCAI-CU 🌱
 -  A Problem solver by CPP
 -  A Future Software Engineer 👨‍💻
@@ -56,13 +52,8 @@
 <div align="center">
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/><br/>
 <img src= "https://visitcount.itsvg.in/api?id=Ali-EL-Badry&icon=0&color=0"/><br/>
-<img src= "https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width=300 /><br/>
-</div>
-
-<div align="center">
-    <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00526f&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
-    </a>
+<a href="https://git.io/typing-svg">
+<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00526f&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!"></a>
 </div>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
 
@@ -71,4 +62,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 #00526f
 7E3ACE
+<img src= "https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width=300 /><br/>
+<div align="right">   
+<img src= "https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width=300 />
+</div>
 -->
