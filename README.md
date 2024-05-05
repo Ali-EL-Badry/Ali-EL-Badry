@@ -14,6 +14,7 @@
 <div align="right">   
 <img src= "https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width=300 />
 </div>
+
 -  I’m currently learning in FCAI-CU 🌱
 -  A Problem solver by CPP
 -  A Future Software Engineer 👨‍💻
