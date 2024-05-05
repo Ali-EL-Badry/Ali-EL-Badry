@@ -14,12 +14,12 @@
 -  I’m currently learning in FCAI-CU 🌱
 -  A Problem solver by CPP
 -  A Future Software Engineer 👨‍💻
--  Fun fact: I love making Arabic Poems ( she3r ) ⚡
+-  Fun fact: I love making Arabic Poems ( she3r ) ⚡ 
+<img src= "https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width=300 />
 -  I’m currently working at EL-Badry plast 🔭
 -  I’m looking to Work with Microsoft.🧩 
 -  Pronouns: he/him 😄
-<div align="right">
-<img src= "https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width=300 /></div>
+<div align="right"></div>
 
 ## My Social Media...
 - 📫 How to reach me: ...
