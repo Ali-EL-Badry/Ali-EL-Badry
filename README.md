@@ -51,30 +51,10 @@
 <div align="center">
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/><br/>
 <img src= "https://visitcount.itsvg.in/api?id=Ali-EL-Badry&icon=0&color=0"/><br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src= "https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width=300 /><br/>
 </div>
 
 <!--
 **Ali-EL-Badry/Ali-EL-Badry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-The Official Account of Aly El-Badry.
-===================================
-If you want any help in programming, tell me on Whatsapp.
-___________________________________________________________
-TEL | 01286364627
-
-About ME :-
-------------------------------------------------------------- 
-- I am currently learning in FCAI-CU🌱
-- Competitive Programmer👨‍💻
-- Problem Solver By CPP🐉
-- A Future Software Engineer ❤
-- Pronouns: he/him 😄
-- [GitHub](https://github.com/Ali-EL-Badry)
-- [Codeforce](https://codeforces.com/profile/aibakgaming747)
-
-Here are some ideas to get you started:
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 -->
