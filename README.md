@@ -10,7 +10,10 @@
 <div align='center'>(صلِّ على سيدنا محمد)ﷺ🤎✨
 </div>
 
-## About Me..💫 
+## About Me..💫
+<div align="right">   
+<img src= "https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width=300 />
+</div>
 -  I’m currently learning in FCAI-CU 🌱
 -  A Problem solver by CPP
 -  A Future Software Engineer 👨‍💻
@@ -18,9 +21,6 @@
 -  I’m currently working at EL-Badry plast 🔭
 -  I’m looking to Work with Microsoft.🧩 
 -  Pronouns: he/him 😄
-<div align="right">   
-<img src= "https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width=300 />
-</div>
 
 ## My Social Media...
 - 📫 How to reach me: ...
