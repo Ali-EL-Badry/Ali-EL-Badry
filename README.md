@@ -56,6 +56,21 @@
 
 <!--
 **Ali-EL-Badry/Ali-EL-Badry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The Official Account of Aly El-Badry.
+===================================
+If you want any help in programming, tell me on Whatsapp.
+___________________________________________________________
+TEL | 01286364627
+
+About ME :-
+------------------------------------------------------------- 
+- I am currently learning in FCAI-CU🌱
+- Competitive Programmer👨‍💻
+- Problem Solver By CPP🐉
+- A Future Software Engineer ❤
+- Pronouns: he/him 😄
+- [GitHub](https://github.com/Ali-EL-Badry)
+- [Codeforce](https://codeforces.com/profile/aibakgaming747)
 
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
