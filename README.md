@@ -52,6 +52,7 @@
 <div align="center">
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/><br/>
 <img src= "https://visitcount.itsvg.in/api?id=Ali-EL-Badry&icon=0&color=0"/><br/>
+
 <a href="https://git.io/typing-svg">
 <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00526f&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!"></a>
 </div>
