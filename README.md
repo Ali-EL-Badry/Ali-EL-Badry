@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <div align="center">
 <img src="./Toji Fushiguro Toji Jjk GIF - Toji fushiguro Toji jjk Jujutsu kaisen - Discover & Share GIFs.gif" width=300></img> </div> <br/>
 
@@ -59,6 +60,7 @@
 <img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00526f&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!"></a>
 </div>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 <!--
 **Ali-EL-Badry/Ali-EL-Badry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
