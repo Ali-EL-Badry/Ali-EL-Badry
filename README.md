@@ -12,13 +12,26 @@
 </div>
 
 ## About Me..💫
--  I’m currently learning in FCAI-CU 🌱
--  A Problem solver by CPP
--  A Future Software Engineer 👨‍💻
--  Fun fact: I love making Arabic Poems ( she3r ) ⚡ 
--  I’m currently working at EL-Badry plast 🔭
--  I’m looking to Work with Microsoft.🧩 
--  Pronouns: he/him 😄
+
+<table align="center">
+  <tr>
+    <td style="width:70%; vertical-align: top;">
+      <ul>
+        <li> I’m currently learning in FCAI-CU 🌱</li>
+        <li> A Problem solver by CPP</li>
+        <li> A Future Software Engineer 👨‍💻</li>
+        <li> Fun fact: I love making Arabic Poems ( she3r ) ⚡ </li>
+        <li> I’m currently working at EL-Badry plast 🔭</li>
+        <li> I’m looking to Work with Microsoft.🧩 </li>
+        <li> Pronouns: he/him 😄</li>
+      </ul>
+    </td>
+    <td style="width:30%; text-align: right; vertical-align: top;">
+      <img src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width="300" />
+    </td>
+  </tr>
+</table>
+
 
 ## My Social Media...
 - 📫 How to reach me: ...
@@ -61,14 +74,10 @@
 </div>
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
 <!--
 **Ali-EL-Badry/Ali-EL-Badry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 #00526f
 7E3ACE
 <img src= "https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width=300 /><br/>
-<div align="right">   
-<img src= "https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width=300 />
-</div>
 -->
