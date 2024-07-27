@@ -18,9 +18,9 @@
     <td style="width:70%; vertical-align: top;">
       <ul>
         <li> I’m currently learning in FCAI-CU 🌱</li>
-        <li> A Problem solver by CPP</li>
-        <li> A Future Software Engineer 👨‍💻</li>
-        <li> Fun fact: I love making Arabic Poems ( she3r ) ⚡ </li>
+        <li> A Problem solver by CPP </li>
+        <li> A Future AI Engineer and Data analyser 👨‍💻</li>
+        <li> Fun fact: I love making Arabic Poems ( she3r )⚡ </li>
         <li> I’m currently working at EL-Badry plast 🔭</li>
         <li> I’m looking to Work with Microsoft.🧩 </li>
         <li> Pronouns: he/him 😄</li>
