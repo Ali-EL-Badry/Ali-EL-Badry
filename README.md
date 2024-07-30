@@ -5,9 +5,6 @@
 <h1 align='center'>
    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Ali El-Badry 👨‍💻
 </h1>
-
--  The official account of ALi ELbadry
-
 <div align='center'>(صلِّ على سيدنا محمد)ﷺ🤎✨
 </div>
 
@@ -82,6 +79,8 @@
 <!--
 **Ali-EL-Badry/Ali-EL-Badry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+-  The official account of ALi ELbadry
 
 
 <img src= "https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width=300 /><br/>
