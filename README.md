@@ -36,17 +36,17 @@
 ## My Social Media...
 - 📫 How to reach me: ...
   
-[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aibakgaming747)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@aibakali)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AibakGaming?s=09)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aly-yasser-aly-elbadry-23a4632b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201286964627)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aly_aibak?igsh=Zm01ZHpsMzRwbTMw)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ali.yasser.77312477/)
-[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alyaibak?_t=8kj4447wM6P&_r=1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aibakgaming747@gmail.com)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-EL-Badry)
-[![SnapChat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/aly-elbadry?share_id=gfMY_hV39Hk&locale=en-US)
+[![CodeForces](https://img.shields.io/badge/Codeforces:aibakgaming747-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aibakgaming747)
+[![Discord](https://img.shields.io/badge/Discord:aibakali-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@aibakali)
+[![Twitter](https://img.shields.io/badge/Twitter:Aly_Aibak❤-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AibakGaming?s=09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn:Aly_ElBadry-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aly-yasser-aly-elbadry-23a4632b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp:Aly_ElBadry-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201286964627)
+[![Instagram](https://img.shields.io/badge/Instagram:Aly_Aibak❤-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aly_aibak?igsh=Zm01ZHpsMzRwbTMw)
+[![Facebook](https://img.shields.io/badge/Facebook:Ali_Yasser_ElBadry-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ali.yasser.77312477/)
+[![Tiktok](https://img.shields.io/badge/TikTok:Aly_ElBadry-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alyaibak?_t=8kj4447wM6P&_r=1)
+[![Gmail](https://img.shields.io/badge/Gmail:Aly_ElBadry-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aibakgaming747@gmail.com)
+[![Github](https://img.shields.io/badge/GitHub:Aly_ElBadry-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-EL-Badry)
+[![SnapChat](https://img.shields.io/badge/Snapchat:Aly_ElBadry-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/aly-elbadry?share_id=gfMY_hV39Hk&locale=en-US)
 
 <div align="center">
 <img src="./pacman.gif" width=1000></img> </div> <br/>
