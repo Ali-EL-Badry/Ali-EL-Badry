@@ -3,7 +3,7 @@
 <img src="./Toji Fushiguro Toji Jjk GIF - Toji fushiguro Toji jjk Jujutsu kaisen - Discover & Share GIFs.gif" width=300></img> </div> <br/>
 
 <h1 align='center'>
-   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Ali El-Badry 👨‍💻
+   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Ali El-Badry 👨‍💻
 </h1>
 <div align='center'>(صلِّ على سيدنا محمد)ﷺ🤎✨
 </div>
@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="35"><b> My Social Media...</b>
+## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media...</b>
 
 - 📫 How to reach me: ...
 <div align='center'>
@@ -50,7 +50,7 @@
 <img src="./pacman.gif" width=100%></img> </div> <br/>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b>  Tech Stack</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tech Stack</b>
 
 
 <div align='center'>
