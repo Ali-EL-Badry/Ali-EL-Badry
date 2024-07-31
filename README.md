@@ -8,17 +8,25 @@
 <div align='center'>(صلِّ على سيدنا محمد)ﷺ🤎✨
 </div>
 
-## About Me..💫   
-<img align="right" width="400" height="250" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif"/>
-
-- I’m currently learning in FCAI-CU 🌱
-- A Problem solver by CPP 
-- A Future AI Engineer and Data analyser 👨‍💻
-- Fun fact: I love making Arabic Poems ( she3r )⚡ 
-- I’m currently working at EL-Badry plast 🔭
-- I’m looking to Work with Microsoft.🧩 
-- Pronouns: he/him 😄
-</div>
+## About Me..💫 
+<table align="center">
+  <tr>
+    <td style="width:70%; vertical-align: top;">
+      <ul>
+        <li> I’m currently learning in FCAI-CU 🌱</li>
+        <li> A Problem solver by CPP </li>
+        <li> A Future AI Engineer and Data analyser 👨‍💻</li>
+        <li> Fun fact: I love making Arabic Poems ( she3r )⚡ </li>
+        <li> I’m currently working at EL-Badry plast 🔭</li>
+        <li> I’m looking to Work with Microsoft.🧩 </li>
+        <li> Pronouns: he/him 😄</li>
+      </ul>
+    </td>
+    <td style="width:30%; text-align: right; vertical-align: top;">
+      <img src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 ## My Social Media...
 - 📫 How to reach me: ...
@@ -71,22 +79,5 @@
 
 <!--
 
-<table align="center">
-  <tr>
-    <td style="width:70%; vertical-align: top;">
-      <ul>
-        <li> I’m currently learning in FCAI-CU 🌱</li>
-        <li> A Problem solver by CPP </li>
-        <li> A Future AI Engineer and Data analyser 👨‍💻</li>
-        <li> Fun fact: I love making Arabic Poems ( she3r )⚡ </li>
-        <li> I’m currently working at EL-Badry plast 🔭</li>
-        <li> I’m looking to Work with Microsoft.🧩 </li>
-        <li> Pronouns: he/him 😄</li>
-      </ul>
-    </td>
-    <td style="width:30%; text-align: right; vertical-align: top;">
-      <img src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width="300" />
-    </td>
-  </tr>
-</table>
+
 -->
