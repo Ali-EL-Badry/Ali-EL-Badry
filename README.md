@@ -28,7 +28,8 @@
   </tr>
 </table>
 
-## My Social Media...
+## <img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="25"><b> My Social Media...</b>
+
 - 📫 How to reach me: ...
 <div align='center'>
    
