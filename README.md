@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="25"><b> My Social Media...</b>
+## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="35"><b> My Social Media...</b>
 
 - 📫 How to reach me: ...
 <div align='center'>
@@ -50,7 +50,7 @@
 <img src="./pacman.gif" width=100%></img> </div> <br/>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tech Stack</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"><b>  Tech Stack</b>
 
 
 <div align='center'>
