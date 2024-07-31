@@ -8,27 +8,17 @@
 <div align='center'>(صلِّ على سيدنا محمد)ﷺ🤎✨
 </div>
 
-## About Me..💫
+## About Me..💫   
+<img align="right" width="400" height="250" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif"/>
 
-<table align="center">
-  <tr>
-    <td style="width:70%; vertical-align: top;">
-      <ul>
-        <li> I’m currently learning in FCAI-CU 🌱</li>
-        <li> A Problem solver by CPP </li>
-        <li> A Future AI Engineer and Data analyser 👨‍💻</li>
-        <li> Fun fact: I love making Arabic Poems ( she3r )⚡ </li>
-        <li> I’m currently working at EL-Badry plast 🔭</li>
-        <li> I’m looking to Work with Microsoft.🧩 </li>
-        <li> Pronouns: he/him 😄</li>
-      </ul>
-    </td>
-    <td style="width:30%; text-align: right; vertical-align: top;">
-      <img src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width="300" />
-    </td>
-  </tr>
-</table>
-
+- I’m currently learning in FCAI-CU 🌱
+- A Problem solver by CPP 
+- A Future AI Engineer and Data analyser 👨‍💻
+- Fun fact: I love making Arabic Poems ( she3r )⚡ 
+- I’m currently working at EL-Badry plast 🔭
+- I’m looking to Work with Microsoft.🧩 
+- Pronouns: he/him 😄
+</div>
 
 ## My Social Media...
 - 📫 How to reach me: ...
@@ -62,6 +52,9 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-%233DDC84.svg?style=for-the-badge)
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center">
@@ -77,11 +70,23 @@
 
 
 <!--
-**Ali-EL-Badry/Ali-EL-Badry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
--  The official account of ALi ELbadry
-
-
-<img src= "https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width=300 /><br/>
+<table align="center">
+  <tr>
+    <td style="width:70%; vertical-align: top;">
+      <ul>
+        <li> I’m currently learning in FCAI-CU 🌱</li>
+        <li> A Problem solver by CPP </li>
+        <li> A Future AI Engineer and Data analyser 👨‍💻</li>
+        <li> Fun fact: I love making Arabic Poems ( she3r )⚡ </li>
+        <li> I’m currently working at EL-Badry plast 🔭</li>
+        <li> I’m looking to Work with Microsoft.🧩 </li>
+        <li> Pronouns: he/him 😄</li>
+      </ul>
+    </td>
+    <td style="width:30%; text-align: right; vertical-align: top;">
+      <img src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width="300" />
+    </td>
+  </tr>
+</table>
 -->
