@@ -30,7 +30,8 @@
 
 ## My Social Media...
 - 📫 How to reach me: ...
-  
+<div align='center'>
+   
 [![CodeForces](https://img.shields.io/badge/Codeforces:aibakgaming747-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aibakgaming747)
 [![Discord](https://img.shields.io/badge/Discord:aibakali-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@aibakali)
 [![Twitter](https://img.shields.io/badge/Twitter:Aly_Aibak❤-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AibakGaming?s=09)
@@ -43,12 +44,15 @@
 [![Github](https://img.shields.io/badge/GitHub:Aly_ElBadry-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-EL-Badry)
 [![SnapChat](https://img.shields.io/badge/Snapchat:Aly_ElBadry-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/aly-elbadry?share_id=gfMY_hV39Hk&locale=en-US)
 
+</div>
 <div align="center">
-<img src="./pacman.gif" width=1000></img> </div> <br/>
+<img src="./pacman.gif" width=100%></img> </div> <br/>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tech Stack</b>
 
+
+<div align='center'>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -62,6 +66,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-%233DDC84.svg?style=for-the-badge)
+
+</div>
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
