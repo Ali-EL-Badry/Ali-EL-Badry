@@ -1,14 +1,19 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <div align="center">
-<img src="./Toji Fushiguro Toji Jjk GIF - Toji fushiguro Toji jjk Jujutsu kaisen - Discover & Share GIFs.gif" width=300></img> </div> <br/>
+   <img src="./Toji Fushiguro Toji Jjk GIF - Toji fushiguro Toji jjk Jujutsu kaisen - Discover & Share GIFs.gif" width=300></img> 
+</div>
 
 <h1 align='center'>
    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Ali El-Badry 👨‍💻
 </h1>
-<div align='center'>(صلِّ على سيدنا محمد)ﷺ🤎✨
+
+<div align='center'>
+   (صلِّ على سيدنا محمد)ﷺ🤎✨
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.. </b>
+
 <table align="center">
   <tr>
     <td style="width:70%; vertical-align: top;">
@@ -46,8 +51,10 @@
 [![SnapChat](https://img.shields.io/badge/Snapchat:Aly_ElBadry-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/aly-elbadry?share_id=gfMY_hV39Hk&locale=en-US)
 
 </div>
+
 <div align="center">
-<img src="./pacman.gif" width=100%></img> </div> <br/>
+   <img src="./pacman.gif" width=100%>
+</div>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tech Stack</b>
@@ -72,19 +79,16 @@
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<div align="center">
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
-   <br/>
-<img src= "https://visitcount.itsvg.in/api?id=Ali-EL-Badry&icon=0&color=0"/><br/>
 
-<a href="https://git.io/typing-svg">
-<img alt="thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00526f&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!"></a>
+<div align="center">
+   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+   
+   <img src= "https://visitcount.itsvg.in/api?id=Ali-EL-Badry&icon=0&color=0"/><br/>
+
+   <a href="https://git.io/typing-svg">
+      <img alt="Thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00526f&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
+   </a>
 </div>
+
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-
-<!--
-
-
--->
