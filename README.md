@@ -81,8 +81,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-EL-Badry&locale=en&hide_title=false&layout=compact&card_width=385&langs_count=18&theme=dracula&hide_border=true&order=5" height="180" alt="languages graph" />
-  
+  <a href="http://www.github.com/Ali-EL-Badry"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a><br>
+
    <img src= "https://visitcount.itsvg.in/api?id=Ali-EL-Badry&icon=0&color=0"/><br/>
    <a href="https://git.io/typing-svg">
       <img alt="Thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=00526f&size=24&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
@@ -94,3 +94,5 @@
 
 
 <!--    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/> -->
+
+<!--      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-EL-Badry&locale=en&hide_title=false&layout=compact&card_width=385&langs_count=18&theme=dracula&hide_border=true&order=5" height="180" alt="languages graph" /> -->
