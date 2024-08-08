@@ -49,6 +49,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail:Aly_ElBadry-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aibakgaming747@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub:Aly_ElBadry-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-EL-Badry)
 [![SnapChat](https://img.shields.io/badge/Snapchat:Aly_ElBadry-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/aly-elbadry?share_id=gfMY_hV39Hk&locale=en-US)
+[![Kaggle](https://img.shields.io/badge/Kaggle:Aly_ElBadry-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyelbadry)
 
 </div>
 
