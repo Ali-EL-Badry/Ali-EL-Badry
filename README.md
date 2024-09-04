@@ -85,7 +85,7 @@
 - AI and Data Science...
 <div align='center'>
 
-![Data Handling and Preprocessing](https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-%2300C853.svg?style=for-the-badge)   
+![Data Handling and Preprocessing](https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-%2300C853.svg?style=for-the-badge)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-0077B5?style=for-the-badge&logo=machinelearning&logoColor=61DAFB)
