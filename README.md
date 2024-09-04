@@ -47,11 +47,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook:Ali_Yasser_ElBadry-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ali.yasser.77312477/)
 [![Tiktok](https://img.shields.io/badge/TikTok:Aly_ElBadry-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alyaibak?_t=8kj4447wM6P&_r=1)
 [![Gmail](https://img.shields.io/badge/Gmail:Aly_ElBadry-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aibakgaming747@gmail.com)
-[![Github](https://img.shields.io/badge/GitHub:Aly_ElBadry-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-EL-Badry)
 [![SnapChat](https://img.shields.io/badge/Snapchat:Aly_ElBadry-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/aly-elbadry?share_id=gfMY_hV39Hk&locale=en-US)
-[![Kaggle](https://img.shields.io/badge/Kaggle:Aly_ElBadry-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyelbadry)
-[![DataCanp](https://img.shields.io/badge/Datacamp:Aly_ElBadry-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)](https://www.datacamp.com/portfolio/Aibak)
-
 
 </div>
 
@@ -63,23 +59,50 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tech Stack</b>
 
 
+- Programming language...
 <div align='center'>
-
+   
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![VisualStudiocode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
-![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+
+</div>
+
+- Front-End Development...
+<div align='center'>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-0077B5?style=for-the-badge&logo=machinelearning&logoColor=61DAFB)
+![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 </div>
 
+- AI and Data Science...
+<div align='center'>
+
+![Data Handling and Preprocessing](https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-%2300C853.svg?style=for-the-badge)   
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-0077B5?style=for-the-badge&logo=machinelearning&logoColor=61DAFB)
+![Deep Learning (Artificial Neural Networks)](https://img.shields.io/badge/Deep%20Learning%20(Artificial%20Neural%20Networks)-%23FF6F00.svg?style=for-the-badge)
+[![Kaggle](https://img.shields.io/badge/Kaggle:Aly_ElBadry-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyelbadry)
+[![DataCanp](https://img.shields.io/badge/Datacamp:Aly_ElBadry-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)](https://www.datacamp.com/portfolio/Aibak)
+</div>
+
+- Used Comilers and IDE...
+<div align='center'>
+
+![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![VisualStudiocode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![CoLab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
@@ -98,4 +121,9 @@
 
 <!--    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/> -->
 
-<!--      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-EL-Badry&locale=en&hide_title=false&layout=compact&card_width=385&langs_count=18&theme=dracula&hide_border=true&order=5" height="180" alt="languages graph" /> -->
+<!--
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+![image]({BadgeURLHere})
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-EL-Badry&locale=en&hide_title=false&layout=compact&card_width=385&langs_count=18&theme=dracula&hide_border=true&order=5" height="180" alt="languages graph" /> -->
