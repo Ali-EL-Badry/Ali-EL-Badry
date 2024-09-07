@@ -102,6 +102,7 @@
 ![VisualStudiocode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 ![CoLab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
@@ -123,7 +124,6 @@
 <!--    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/> -->
 
 <!--
-![image]({BadgeURLHere})
 ![image]({BadgeURLHere})
 ![image]({BadgeURLHere})
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-EL-Badry&locale=en&hide_title=false&layout=compact&card_width=385&langs_count=18&theme=dracula&hide_border=true&order=5" height="180" alt="languages graph" /> -->
