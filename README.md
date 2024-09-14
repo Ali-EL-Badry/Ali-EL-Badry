@@ -86,11 +86,12 @@
 - AI and Data Science...
 <div align='center'>
 
-![Data Handling and Preprocessing](https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-%2300C853.svg?style=for-the-badge)
+![Data Handling and Preprocessing](https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-darkgreen.svg?style=for-the-badge)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-0077B5?style=for-the-badge&logo=machinelearning&logoColor=61DAFB)
-![Deep Learning (Artificial Neural Networks)](https://img.shields.io/badge/Deep%20Learning%20(Artificial%20Neural%20Networks)-%23FF6F00.svg?style=for-the-badge)
+![Deep Learning Algorithms(ANN)](https://img.shields.io/badge/Deep%20Learning%20Algorithms(ANN)-darkred.svg?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-darkslateblue?style=for-the-badge&logo=huggingface&logoColor=white)
 [![Kaggle](https://img.shields.io/badge/Kaggle:Aly_ElBadry-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyelbadry)
 [![DataCanp](https://img.shields.io/badge/Datacamp:Aly_ElBadry-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)](https://www.datacamp.com/portfolio/Aibak)
 </div>
