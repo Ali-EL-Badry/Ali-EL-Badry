@@ -1,13 +1,13 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<div align="center">
-   <img src="./Toji Fushiguro Toji Jjk GIF - Toji fushiguro Toji jjk Jujutsu kaisen - Discover & Share GIFs.gif" width=300></img> 
-</div>
 
 <h1 align='center'>
    Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Ali El-Badry <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
 </h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=FCAI student;AI Engineer and Data Scientist;Junior Full-Stack Developer;Always+learning+new+things;" alt="Typing SVG" /></a>
+</p>
 <div align='center'>
    (صلِّ على سيدنا محمد)ﷺ🤎✨
 </div>
