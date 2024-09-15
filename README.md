@@ -12,26 +12,20 @@
    (صلِّ على سيدنا محمد)ﷺ🤎✨
 </div>
 
+
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.. </b>
 
-<table align="center" style="width:100%;">
-  <tr>
-    <td style="width:70%; vertical-align: top;">
-      <ul>
-        <li> I’m currently learning in FCAI-CU 🌱</li>
-        <li> A Problem solver by CPP 👾</li>
-        <li> A Future AI Engineer and Data analyser 👨‍💻</li>
-        <li> Fun fact: I love making Arabic Poems ( she3r )⚡ </li>
-        <li> I’m currently working at EL-Badry plast 🔭</li>
-        <li> I’m looking to Work with Microsoft.🧩 </li>
-        <li> Pronouns: he/him 😄</li>
-      </ul>
-    </td>
-    <td style="width:30%; text-align: right; vertical-align: top;">
-      <img src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width="300" />
-    </td>
-  </tr>
-</table>
+<img src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width="300"  align="right" />
+
+- 🌱 I’m currently learning in FCAI-CU 
+- :school: `A second year student` Who love to learn in different field ✨
+- 👾 A Problem solver by `C++` on different Plateform like `Codeforce` and `Leet code` 
+- 🔵 A Competitions Contributer on `Kaggle` 
+- 👨‍💻 A Future AI Engineer and Data analyser 
+- 👨‍💻 A Junior Full-Stack Developer 
+- ⌚ Currently : learning about `Application` Development and Practicing `Data Science` and `Full-Stack` Development
+- ⚡ Fun fact: I love making Arabic Poems `( she3r )` 
+- 🔭 I’m currently working at `EL-Badry plast` 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media...</b>
 
@@ -124,7 +118,29 @@
 
 <!--    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/> -->
 
+
+
+
 <!--
+
+<table align="center" style="width:100%;">
+  <tr>
+    <td style="width:70%; vertical-align: top;">
+      <ul>
+        <li> I’m currently learning in FCAI-CU 🌱</li>
+        <li> A Problem solver by CPP 👾</li>
+        <li> A Future AI Engineer and Data analyser 👨‍💻</li>
+        <li> Fun fact: I love making Arabic Poems ( she3r )⚡ </li>
+        <li> I’m currently working at EL-Badry plast 🔭</li>
+        <li> I’m looking to Work with Microsoft.🧩 </li>
+        <li> Pronouns: he/him 😄</li>
+      </ul>
+    </td>
+    <td style="width:30%; text-align: right; vertical-align: top;">
+      <img src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width="300" />
+    </td>
+  </tr>
+</table>
 ![image]({BadgeURLHere})
 ![image]({BadgeURLHere})
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-EL-Badry&locale=en&hide_title=false&layout=compact&card_width=385&langs_count=18&theme=dracula&hide_border=true&order=5" height="180" alt="languages graph" /> -->
