@@ -74,6 +74,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Djungo](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 </div>
@@ -122,25 +123,6 @@
    
 <!--    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/> -->
 <!--
-
-<table align="center" style="width:100%;">
-  <tr>
-    <td style="width:70%; vertical-align: top;">
-      <ul>
-        <li> I’m currently learning in FCAI-CU 🌱</li>
-        <li> A Problem solver by CPP 👾</li>
-        <li> A Future AI Engineer and Data analyser 👨‍💻</li>
-        <li> Fun fact: I love making Arabic Poems ( she3r )⚡ </li>
-        <li> I’m currently working at EL-Badry plast 🔭</li>
-        <li> I’m looking to Work with Microsoft.🧩 </li>
-        <li> Pronouns: he/him 😄</li>
-      </ul>
-    </td>
-    <td style="width:30%; text-align: right; vertical-align: top;">
-      <img src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" width="300" />
-    </td>
-  </tr>
-</table>
 ![image]({BadgeURLHere})
 ![image]({BadgeURLHere})
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ali-EL-Badry&locale=en&hide_title=false&layout=compact&card_width=385&langs_count=18&theme=dracula&hide_border=true&order=5" height="180" alt="languages graph" /> -->
+ -->
