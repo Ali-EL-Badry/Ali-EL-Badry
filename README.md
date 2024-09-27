@@ -88,6 +88,9 @@
 ![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-0077B5?style=for-the-badge&logo=machinelearning&logoColor=61DAFB)
 ![Deep Learning Algorithms(ANN)](https://img.shields.io/badge/Deep%20Learning%20Algorithms(ANN)-darkred.svg?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/Natural%20Language%20Processing(NLP)-darkslateblue?style=for-the-badge&logo=huggingface&logoColor=white)
+![Weights and bias](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 [![Kaggle](https://img.shields.io/badge/Kaggle:Aly_ElBadry-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyelbadry)
 [![DataCanp](https://img.shields.io/badge/Datacamp:Aly_ElBadry-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)](https://www.datacamp.com/portfolio/Aibak)
 </div>
