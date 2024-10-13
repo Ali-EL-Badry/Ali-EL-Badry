@@ -25,7 +25,7 @@
 - 👨‍💻 A Junior Full-Stack Developer 
 - ⌚ Currently : learning about `Application` Development and Practicing `Data Science` and `Full-Stack` Development
 - ⚡ Fun fact: I love making Arabic Poems `(She3r)` 
-- 🔭 I’m currently working at `EL-Badry plast` 
+- 🔭 I’m currently working at `EL-Badry plast` and FreeLancer on `Outlier` 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media...</b>
 
