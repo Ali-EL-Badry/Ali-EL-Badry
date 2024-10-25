@@ -21,8 +21,7 @@
 - :school: `A second year student` Who love to learn in different field ✨
 - 👾 A Problem solver by `C++` on different Plateform like `Codeforce` and `Leet code` 
 - 🔵 A Competitions Contributer on `Kaggle`
-- 👨‍💻 A Future AI Engineer and Data analyser 
-- 👨‍💻 A Junior Full-Stack Developer 
+- 👨‍💻 A Junior AI Engineer and Data Scientist  
 - ⌚ Currently : Taking training in `Data Science` in `DEPI`
 - ⚡ Fun fact: I love making Arabic Poems `(She3r)`
 - 🔭 I’m currently working at `EL-Badry plast` and FreeLancer on `Outlier` 
