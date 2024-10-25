@@ -20,11 +20,11 @@
 - 🌱 I’m currently learning in FCAI-CU 
 - :school: `A second year student` Who love to learn in different field ✨
 - 👾 A Problem solver by `C++` on different Plateform like `Codeforce` and `Leet code` 
-- 🔵 A Competitions Contributer on `Kaggle` 
+- 🔵 A Competitions Contributer on `Kaggle`
 - 👨‍💻 A Future AI Engineer and Data analyser 
 - 👨‍💻 A Junior Full-Stack Developer 
-- ⌚ Currently : learning about `Application` Development and Practicing `Data Science` and `Full-Stack` Development
-- ⚡ Fun fact: I love making Arabic Poems `(She3r)` 
+- ⌚ Currently : Taking training in `Data Science` in `DEPI`
+- ⚡ Fun fact: I love making Arabic Poems `(She3r)`
 - 🔭 I’m currently working at `EL-Badry plast` and FreeLancer on `Outlier` 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media...</b>
