@@ -114,6 +114,7 @@
 
 <div align="center">
   <a href="http://www.github.com/Ali-EL-Badry"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a><br>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-EL-Badry/&theme=highcontrast" width="48%" >
 
    <img src= "https://visitcount.itsvg.in/api?id=Ali-EL-Badry&icon=0&color=0"/><br/>
    <a href="https://git.io/typing-svg">
