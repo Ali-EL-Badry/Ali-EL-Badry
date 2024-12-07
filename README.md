@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00526f&center=true&vCenter=true&random=false&width=600&lines=FCAI Cairo University Student;AI Engineer and Data Scientist;Junior Full-Stack Developer;Problem Solver on Codeforces and Leetcode;A Competitions Contributer on Kaggle;Always+learning+new+things;" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00526f&center=true&vCenter=true&random=false&width=600&lines=FCAI Cairo University Student;AI Engineer and Data Scientist;Junior Front-End Developer;Problem Solver on Codeforces and Leetcode;A Competitions Contributer on Kaggle;Always+learning+new+things;" alt="Typing SVG" /></a>
 </p>
 <div align='center'>
    (صلِّ على سيدنا محمد)ﷺ🤎✨
