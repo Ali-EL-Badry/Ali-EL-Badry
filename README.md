@@ -23,8 +23,10 @@
 - 👨‍💻 A Junior AI Engineer and Data Scientist  
 - ⌚ Currently : Taking training in `Data Science` in `DEPI`
 - ⚡ Fun fact: I love making Arabic Poems `(She3r)`
-- 🔭 I’m currently working at `EL-Badry plast` and FreeLancer on `Outlier` 
-
+- 🔭 I’m currently working at :
+     - `EL-Badry plast` as Sales & customer Representer
+     - FreeLancer on `Khamsat` && `Upwork` 
+     - Ai trainer on `Outlier`
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media...</b>
