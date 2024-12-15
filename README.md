@@ -24,7 +24,7 @@
 - ⌚ Currently : Taking training in `Data Science` in `DEPI`
 - ⚡ Fun fact: I love making Arabic Poems `(She3r)`
 - 🔭 I’m currently working at :
-     - `EL-Badry plast` as Sales & customer Representer
+     - `EL-Badry plast` as Sales & Customer Representer
      - FreeLancer on `Khamsat` && `Upwork` 
      - Ai trainer on `Outlier`
 
