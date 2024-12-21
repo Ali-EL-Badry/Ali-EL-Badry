@@ -34,7 +34,7 @@
 - 📫 How to reach me: ...
 <div align='center'>
    
-[![CodeForces](https://img.shields.io/badge/Codeforces:aibakgaming747-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aibakgaming747)
+[![CodeForces](https://img.shields.io/badge/Codeforces:3ly_El_Badry-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aibakgaming747)
 [![Discord](https://img.shields.io/badge/Discord:aibakali-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@aibakali)
 [![Twitter](https://img.shields.io/badge/Twitter:Aly_Aibak❤-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AibakGaming?s=09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn:Aly_ElBadry-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aly-yasser-aly-elbadry-23a4632b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
