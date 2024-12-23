@@ -31,7 +31,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media...</b>
 
-- 📫 How to reach me: ...
+- 📫 How to reach me: ..
 <div align='center'>
    
 [![CodeForces](https://img.shields.io/badge/Codeforces:3ly_El_Badry-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aibakgaming747)
