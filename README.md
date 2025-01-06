@@ -13,12 +13,25 @@
    (صلِّ على سيدنا محمد)ﷺ🤎✨
 </em></div>
 
+---
+
+<p align="center">
+  <em>
+    This is AI/ML, Aly EL-Deen Yasser, a 2nd year undergraduate from <b>Cairo University</b>, Egypt. <br>
+    A budding <b>AI Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> hisself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
 
 ## <em><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.. </b></em>
 <em>
    
-- 🌱 I’m currently learning in FCAI-CU 
-- :school: `A second year student` Who love to learn in different field ✨
+<img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
+   
 - 👾 A Problem solver by `C++` on different Plateform like `Codeforce` and `Leet code` 
 - 🔵 A Competitions Contributer on `Kaggle`
 - 👨‍💻 A Junior AI Engineer and Data Scientist  
@@ -143,6 +156,9 @@
 
 
 <p align="center">
+- 🌱 I’m currently learning in FCAI-CU 
+- :school: `A second year student` Who love to learn in different field ✨
+
   <em>
     This is ME, Falguni Sarkar, a 2nd year undergraduate from <a href="http://sittechno.org/"> <b>Siliguri Institute of Technology</b>, Siliguri</a>. <br>
     A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
