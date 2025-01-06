@@ -32,6 +32,7 @@
    
 <img align="right" width=300px alt="Intro" src="https://media.giphy.com/media/JTnmWFfrd77RctgNQl/giphy.gif" />
    
+- 🌱 I’m currently learning in FCAI-CU 
 - 👾 A Problem solver by `C++` on different Plateform like `Codeforce` and `Leet code` 
 - 🔵 A Competitions Contributer on `Kaggle`
 - 👨‍💻 A Junior AI Engineer and Data Scientist  
@@ -156,7 +157,6 @@
 
 
 <p align="center">
-- 🌱 I’m currently learning in FCAI-CU 
 - :school: `A second year student` Who love to learn in different field ✨
 
   <em>
