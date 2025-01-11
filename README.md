@@ -150,25 +150,6 @@
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=00526f&style=flat&logo" alt="back to top" /></a></p>
 
 
-   
 <!--    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/> -->
-<!--
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![image]({})
+<!-- ![]()  -->
 
-
-<p align="center">
-- :school: `A second year student` Who love to learn in different field ✨
-
-  <em>
-    This is ME, Falguni Sarkar, a 2nd year undergraduate from <a href="http://sittechno.org/"> <b>Siliguri Institute of Technology</b>, Siliguri</a>. <br>
-    A budding <b>Full-Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-</p>
-
- -->
