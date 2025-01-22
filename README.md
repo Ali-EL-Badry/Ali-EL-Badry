@@ -38,7 +38,7 @@
      - FreeLancer on `Khamsat` && `Upwork` 👨‍💻
      - Ai trainer on `Outlier` 🤖
 
-# Sevices
+# <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="25px" /> Sevices
 <table align="center" width="100%">
   <tr>
     <td align="center" width="33%" style="padding: 20px; font-size: 18px; background-color: #f5f5f5; border: 1px solid #ddd;">
