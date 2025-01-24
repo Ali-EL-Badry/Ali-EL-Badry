@@ -3,15 +3,15 @@
 </div>
 
 <h1 align='center'>
-  <em>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Aly El-Badry <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" /> </em>
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Aly El-Badry <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
 </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6fa8dc&center=true&vCenter=true&random=false&width=600&lines=FCAI Cairo University Student;AI Engineer and Data Scientist;Junior Front-End Developer;Problem Solver on Codeforces and Leetcode;A Competitions Contributer on Kaggle;Always+learning+new+things;" alt="Typing SVG" /></a>
 </p>
-<div align='center'><em>
+<div align='center'>
    (صلِّ على سيدنا محمد)ﷺ🤎✨
-</em></div>
+</div>
 
 ---
 
@@ -73,9 +73,6 @@
   </tr>
 </table>
 
-
-
-<em>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media...</b>
 
@@ -159,7 +156,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-</em>
 
 <div align="center">
   <a href="http://www.github.com/Ali-EL-Badry"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a><br>
