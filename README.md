@@ -29,7 +29,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.. </b>
 
 - 👾 A Problem solver by `C++` on different Plateform like `Codeforce` and `Leet code` 
-- 🔵 A Competitions Contributer on `Kaggle`
+- 🟣 A Dataset Expert on `Kaggle`
 - 👨‍💻 A Junior AI Engineer and Data Scientist  
 - ⌚ Currently : Taking training in `Data Science` in `DEPI`
 - ⚡ Fun fact: I love making Arabic Poems `(She3r)`
