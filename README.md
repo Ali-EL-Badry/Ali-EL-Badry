@@ -76,6 +76,15 @@
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="25"><b> My Social Media...</b>
+- 🌐 The website I work on ...
+
+
+<div align='center'>
+   
+   [![5amsat](https://img.shields.io/badge/5AMSAT-FFC20E?style=for-the-badge&logo=5&logoColor=white)](https://khamsat.com/user/alyelbadry)
+   [![Wuzzuf](https://img.shields.io/badge/WUZZUF-006E9C?style=for-the-badge&logo=w&logoColor=white)](https://wuzzuf.net/me/Aly-El-badry-9b13d59b2f?utm_medium=other&utm_source=referral)
+   [![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0150b84d11e24cbd84)
+
 
 - 📫 How to reach me: ..
 <div align='center'>
