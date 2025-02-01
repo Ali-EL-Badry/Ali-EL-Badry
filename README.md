@@ -86,6 +86,8 @@
    [![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0150b84d11e24cbd84)
 
 
+</div>
+
 - 📫 How to reach me: ..
 <div align='center'>
    
