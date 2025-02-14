@@ -29,15 +29,15 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.. </b>
 
 - 🧑 My Portfolio [Link](https://alyelbadryportfolio.netlify.app/)
-- 👾 A Problem solver by `C++` on different Plateform like `Codeforce` and `Leet code` 
-- 🟣 A Dataset Expert on `Kaggle`
-- 👨‍💻 A Junior AI Engineer and Data Scientist  
-- ⌚ Currently : Taking training in `Data Science` in `DEPI`
+- 👾 A Problem solver by `C++` on different Plateform like `Codeforce` and `Leet code`.
+- 🟣 A Dataset Expert on `Kaggle`.
+- 👨‍💻 A Junior AI Engineer and Data Scientist.
+- ⌚ Currently : Taking training in `Data Science` in `DEPI`.
 - ⚡ Fun fact: I love making Arabic Poems `(She3r)`
 - 🔭 I’m currently working at :
-     - `EL-Badry plast` as Sales & Customer Representer 👨‍💼
-     - FreeLancer on `Khamsat` && `Upwork` 👨‍💻
-     - Ai trainer on `Outlier` 🤖
+     - `EL-Badry plast` as Sales & Customer Representer 👨‍💼,
+     - FreeLancer on `Khamsat` && `Upwork` 👨‍💻,
+     - Ai trainer on `Outlier` 🤖.
 
 # <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="25px" /> Sevices
 <table align="center" width="100%">
