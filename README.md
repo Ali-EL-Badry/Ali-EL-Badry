@@ -36,7 +36,7 @@
 - ⚡ Fun fact: I love making Arabic Poems `(She3r)`
 - 🔭 I’m currently working at :
      - `EL-Badry plast` as Sales & Customer Representer 👨‍💼,
-     - FreeLancer on `Khamsat` && `Upwork` 👨‍💻,
+     - FreeLancer on `Freelancer` && `Upwork` && `Wuzzuf` 👨‍💻,
      - Ai trainer on `Outlier` 🤖.
 
 # <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="25px" /> Sevices
