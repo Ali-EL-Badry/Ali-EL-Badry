@@ -44,8 +44,10 @@
            - ⚡ `Data Collector` For The object Detection.
            - ⚡ `Feature Engineer` Due To My Experiance in Data Science.
            - ⚡ `Front End Developer` For Deployment The model.
-   - `E-commerce Website 🏬` From `Al Kamal Center` for Agricultural Products and Services.
+   - `E-commerce Website 🏬` From `Al Kamal Center 🌿` for Agricultural Products and Services.
         - Work As : ⚡ `Web Developer` for Making the website.
+   - `AI Workshop 🤖` From `Star Union 🌟`.
+        - Work As : ⚡ `Ai Member` Particapate in the sessions.
 
 # <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="25px" /> Sevices
 <table align="center" width="100%">
