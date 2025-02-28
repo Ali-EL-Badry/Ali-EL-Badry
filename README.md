@@ -38,6 +38,14 @@
      - `EL-Badry plast` as Sales & Customer Representer 👨‍💼,
      - FreeLancer on `Freelancer` && `Upwork` && `Wuzzuf` 👨‍💻,
      - Ai trainer on `Outlier` 🤖.
+- 💼 What I Work in this time btw:
+      - `Satellitor 🌌` From `Alpha 5 🟣` team - `DEPI 🏙`
+           -  Work As :
+             - ⚡ `Data Collector` For The object Detection.
+             - ⚡ `Feature Engineer` Due To My Experiance in Data Science.
+             - ⚡ `Front End Developer` For Deployment The model.
+      - `E-commerce Website 🏬` From `Al Kamal Center` for Agricultural Products and Services.
+           - Work As : ⚡ `Web Developer` for Making the website.
 
 # <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="25px" /> Sevices
 <table align="center" width="100%">
