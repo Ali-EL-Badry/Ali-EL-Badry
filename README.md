@@ -38,7 +38,7 @@
      - `EL-Badry plast` as Sales & Customer Representer 👨‍💼,
      - FreeLancer on `Freelancer` && `Upwork` && `Wuzzuf` 👨‍💻,
      - Ai trainer on `Outlier` 🤖.
-- 💼 What I Work in this time btw:
+- 💼 What I Work on btw:
    - `Satellitor 🌌` From `Alpha 5 🟣` team - `DEPI 🏙`
       -  Work As :
            - ⚡ `Data Collector` For The object Detection.
