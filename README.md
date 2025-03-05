@@ -73,7 +73,7 @@
       </ul>
     </td>
     <td align="center" width="33%" style="padding: 20px; font-size: 18px; background-color: #f5f5f5; border: 1px solid #ddd;">
-      <b>Web Development</b>
+      <b>Web Development.</b>
       <br><br>
       <ul style="list-style-type: none; padding: 0; font-size: 14px; text-align: left;"  align="left">
         <li> Frontend: React, HTML, CSS, JavaScript</li>
