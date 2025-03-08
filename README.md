@@ -10,7 +10,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6fa8dc&center=true&vCenter=true&random=false&width=600&lines=FCAI Cairo University Student;AI Engineer and Data Scientist;Junior Full-Stack Developer;Problem Solver on Codeforces and Leetcode;A Dataset Expert on Kaggle;Always+learning+new+things;" alt="Typing SVG" /></a>
 </p>
 <div align='center'>
-   (صلِّ على سيدنا محمد)ﷺ🤎✨
+   (صلِّ على سيدنا محمد)ﷺ.🤎✨
 </div>
 
 ---
