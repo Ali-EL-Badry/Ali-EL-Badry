@@ -29,9 +29,9 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me...</b>
 
 - 🧑 To know about me you can visit [My Portfolio](https://alyelbadryportfolio.netlify.app/).
+- 👨‍💻 A Junior AI Engineer, Data Scientist and Full Stack Developer.
 - 👾 A Problem solver by `C++` on different Plateform like `Codeforce` and `Leet code`.
 - 🟣 A Dataset Expert on `Kaggle`.
-- 👨‍💻 A Junior AI Engineer and Data Scientist.
 - ⌚ Currently : Taking training in `Data Science` in `DEPI`.
 - ⚡ Fun fact: I love making Arabic Poems `(She3r)`
 - 🔭 I’m currently working at :
@@ -94,21 +94,33 @@
    [![5amsat](https://img.shields.io/badge/5AMSAT-FFC20E?style=for-the-badge&logo=5&logoColor=white)](https://khamsat.com/user/alyelbadry)
    [![Wuzzuf](https://img.shields.io/badge/WUZZUF-006E9C?style=for-the-badge&logo=w&logoColor=white)](https://wuzzuf.net/me/Aly-El-badry-9b13d59b2f?utm_medium=other&utm_source=referral)
    [![upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0150b84d11e24cbd84)
-
+   [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/alyelbadry)
 
 </div>
 
 - 📫 How to reach me: ..
 <div align='center'>
    
-   [![CodeForces](https://img.shields.io/badge/Codeforces:3ly_El_Badry-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aibakgaming747)
-   [![Discord](https://img.shields.io/badge/Discord:aibakali-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@aibakali)
-   [![Twitter](https://img.shields.io/badge/Twitter:Aly_Aibak❤-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AibakGaming?s=09)
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn:Aly_ElBadry-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aly-yasser-aly-elbadry-23a4632b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
    [![WhatsApp](https://img.shields.io/badge/WhatsApp:Aly_ElBadry-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201286964627)
-   [![Instagram](https://img.shields.io/badge/Instagram:Aly_Aibak❤-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aly_aibak?igsh=Zm01ZHpsMzRwbTMw)
-   [![Facebook](https://img.shields.io/badge/Facebook:Ali_Yasser_ElBadry-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ali.yasser.77312477/)
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn:Aly_ElBadry-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aly-yasser-aly-elbadry-23a4632b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
    [![Gmail](https://img.shields.io/badge/Gmail:Aly_ElBadry-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aibakgaming747@gmail.com)
+   [![Facebook](https://img.shields.io/badge/Facebook:Ali_Yasser_ElBadry-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ali.yasser.77312477/)
+   [![Discord](https://img.shields.io/badge/Discord:aibakali-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@aibakali)
+   [![Instagram](https://img.shields.io/badge/Instagram:Aly_Aibak❤-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aly_aibak?igsh=Zm01ZHpsMzRwbTMw)
+   [![Twitter](https://img.shields.io/badge/Twitter:Aly_Aibak❤-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AibakGaming?s=09)
+
+</div>
+
+- 🧩 Where i Solve 
+
+<div align='center'>
+   
+   [![CodeForces](https://img.shields.io/badge/Codeforces:3ly_El_Badry-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aibakgaming747)
+   [![Vjudge](	https://img.shields.io/badge/Vjudge-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://vjudge.net/user/aly_yasser)
+   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/aly_aibak/)
+   [![Kaggle](https://img.shields.io/badge/Kaggle:Aly_ElBadry-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyelbadry)
+
+
 
 </div>
 
@@ -143,24 +155,33 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Djungo](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Framer-Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Next js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 </div>
 
 - AI and Data Science...
 <div align='center'>
 
+Data Processing and visualization <br/>
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Data Handling and Preprocessing](https://img.shields.io/badge/Data%20Handling%20and%20Preprocessing-darkgreen.svg?style=for-the-badge)
-![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-0077B5?style=for-the-badge&logo=machinelearning&logoColor=61DAFB)
-![Weights and bias](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
-![Deep Learning Algorithms(ANN)](https://img.shields.io/badge/Deep%20Learning%20Algorithms(ANN)-darkred.svg?style=for-the-badge)
-![NLP](https://img.shields.io/badge/Natural%20Language%20Processing(NLP)-darkslateblue?style=for-the-badge&logo=huggingface&logoColor=white)
+<img src="https://img.shields.io/badge/matplotlib%20-%2311537a.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAMAAAApB0NrAAACOlBMVEUAAADI2OGyyNXU4OfK2eLR3ubg6e7h6e7z9/n09/n4+vv////////////////////////P3OTH1+DP3eT////6+vr+/f77/Pz9/Pz7+vukvs35+Pn19fb3+Pn/3Ga0ydb/pGb+o2To7/O/0dyqwtCowc+mv86hvMvy9fjW4umzyNWxx9Tu8vXw8PHt7e3Y4+r92WP9oWL8/f74+frv7+7n6Obk49/09PXy8vPr8PPq6Ofd2NPXzsjWyL7OxKLMqpPVnXf/22Tqm2TvzmL0nWL3nWDZ5Ovm5eXE1d7B0tvg4Nrh3dnTw7jSy7bRya/Ou6+p0KjOt6i+zY7QoYDU8HnWv3bnyWby0WP102L712H29/fu8fPn5eLd4t3Y29y8z9nM2czU1MaUob28z7zSxbzN0rrHzq+v/q2tzayn8qWj2aLBy57MsJ3Kp4/DoouHi4rOvonF2n/JnH3h/3zRmnTbm2/exG3bmGrGkGrgmWjtnGT5n2Hq7vHc3+TS3tu0ytba3NTT29PG1dPe1M67wM7V0MzZ1cjG0MWbp8PO0sKvyMLQ08Gqxb/Fw77Iwbq50biTwbaUu7TNx7N8vq+qxKqVsKqr+amssqimqKam56TJsaKg4p66w52ZzZiYt5fPwpabn5bHvJOWkY3QqIyJj4vNpYmptIjGt4TMoIPA0oK4yn6vkn7H3nyjkHzR63va+HnM5XjLt3eJgXfUmG/bwm7Xv27gm2vkmmjJsmfvnGSJgWLYkF/smF5dXVpx5ODWAAAAFHRSTlMA+vbo4tTKwpqIgVlUOy0eGODp4M10dCUAAAMbSURBVDjLlVQFUxtBFA4OoSmlfWsn5AIETUKjuFsLFC+l7u4tTt3d3d3d9b91d5vCZehMp2/u5mZnv3vve/I9i8lSkhPjY6JmRMXEJyanWP5mk5PiorMy7RkzM+yZWdFxSZMnIKZYYxV7QTECoAA4JzdfibVOiYTYEpy700vKN64AQBiEpec5E2xmyKTU7AZPW9VIfeU8piFGJKwgO3WSCTJVKd7f9dXh8FZ5sEooQ4hykEuZOgaypSoubVO9w+EwPjXLWLqPic98JdUWppuQ7QLW3Oc1DGOkHLiLwI2VAYqICq7shN/Erc4CAKKV9RuGo36Drqlk6ZvuzhDVCOfktMq6xOYBYET0ls+cUFchw/71r7c/bWJEhMuLFXVKUtIBGAVcdK3GMPoXEAhu3f7iqI6BIF4CJYk3IC4foCiIAfyeyjqjpgyRld2vVhWqGAQ1yI9LsSRH5wLMetsa9Pug8cloXYfu7uxe78aEAVAEkBudbEnMygFty/Q5sysW+KC0z3tfa9raGZJOZM1zshIt8ZkYQh/S0gSqSS8brGpc9WyPcCJeRgBnxlti7ACHejgmLa33Y0Vz29CpR8cJ5g6w6C/H2WMsURmcTq3EVFf3Dtx9+e7OgSM7qQwkCWVEWWbMpKS1tnr6XP701vZ8+fZz87Jli9R5CGkqUjVEFy8O+5k7p2dg9paKc5cfXNl87yCPRTBWKSYIcz+ST+nj261LQwHPvrMXFy28dfL5Cj8z85F56W4CPvCcOX8sAEtuLiwf2uAx5yXqE/6l6MQu3qzT15f4Or4/DJnqI+ssz4wwRom7fe1y5q78UVXmH6uz7Jc8YF3HAMF1l9YgKOmqH2zT/vQr3HdEgKo6Adh7dXV7Ic/ivbemsoTIvpvmh6fKEF2+dvW6ID+VDzvqtpViMT+mOSQgYh5e036hkVAgHTXe0W2BBqd1fJ5VgjhIOCxSQZh7Y91wS7Gc57Au5otbKRhgWDokJZtadijTbCZ9ueQFYpSO6Usr5vqK0GmBjETYuE4bhE4j9Z6XLi4i9T5xb+Tn5uCIvfFf++ffe+wX+Pmth4AjkG4AAAAASUVORK5CYII=&logoColor=white" alt="Matplotlib">
+![Dash](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+
+
+Data Modeling (Machine Learning and deep Learning) <br/>
+![Scikit](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-[![Kaggle](https://img.shields.io/badge/Kaggle:Aly_ElBadry-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyelbadry)
-[![DataCanp](https://img.shields.io/badge/Datacamp:Aly_ElBadry-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)](https://www.datacamp.com/portfolio/Aibak)
+![NLP](https://img.shields.io/badge/Natural%20Language%20Processing(NLP)-darkslateblue?style=for-the-badge&logo=huggingface&logoColor=white)
+![Weights and bias](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)
+![Machine Learning Algorithms](https://img.shields.io/badge/Machine%20Learning%20Algorithms-0077B5?style=for-the-badge&logo=machinelearning&logoColor=61DAFB)
+![Deep Learning Algorithms(ANN)](https://img.shields.io/badge/Deep%20Learning%20Algorithms(ANN)-darkred.svg?style=for-the-badge)
+
 </div>
 
 - Used Comilers and IDE...
