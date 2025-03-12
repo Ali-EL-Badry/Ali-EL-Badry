@@ -116,8 +116,8 @@
 <div align='center'>
    
    [![CodeForces](https://img.shields.io/badge/Codeforces:3ly_El_Badry-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/aibakgaming747)
-   [![Vjudge](	https://img.shields.io/badge/Vjudge-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://vjudge.net/user/aly_yasser)
-   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/aly_aibak/)
+   [![Vjudge](	https://img.shields.io/badge/Vjudge:aly_yasser-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://vjudge.net/user/aly_yasser)
+   [![LeetCode](https://img.shields.io/badge/-LeetCode:Aly_El-Badry-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/aly_aibak/)
    [![Kaggle](https://img.shields.io/badge/Kaggle:Aly_ElBadry-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/alyelbadry)
 
 
