@@ -161,7 +161,7 @@
 
 </div>
 
-- AI and Data Science...
+- AI and Data Science..
 <div align='center'>
 
 Data Processing and visualization <br/>
