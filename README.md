@@ -17,8 +17,8 @@
 
 <p align="center">
   <em>
-    This is AI/ML, Aly EL-Deen Yasser, a 2nd year undergraduate from <b>Cairo University</b>, Egypt, <br>
-    A budding <b>AI Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    This is AI/ML ENG, Aly EL-Deen Yasser, a 2nd year undergraduate from <b>Cairo University</b>, Egypt, <br>
+    A budding <b>AI Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
@@ -102,12 +102,12 @@
 <div align='center'>
    
    [![WhatsApp](https://img.shields.io/badge/WhatsApp:Aly_ElBadry-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+201286964627)
+   [![Twitter](https://img.shields.io/badge/Twitter:Aly_Aibak❤-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AibakGaming?s=09)
    [![LinkedIn](https://img.shields.io/badge/LinkedIn:Aly_ElBadry-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aly-yasser-aly-elbadry-23a4632b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
    [![Gmail](https://img.shields.io/badge/Gmail:Aly_ElBadry-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aibakgaming747@gmail.com)
    [![Facebook](https://img.shields.io/badge/Facebook:Ali_Yasser_ElBadry-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ali.yasser.77312477/)
    [![Discord](https://img.shields.io/badge/Discord:aibakali-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@aibakali)
    [![Instagram](https://img.shields.io/badge/Instagram:Aly_Aibak❤-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aly_aibak?igsh=Zm01ZHpsMzRwbTMw)
-   [![Twitter](https://img.shields.io/badge/Twitter:Aly_Aibak❤-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AibakGaming?s=09)
 
 </div>
 
