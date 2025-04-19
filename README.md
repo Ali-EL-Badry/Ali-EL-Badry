@@ -204,7 +204,7 @@ Data Modeling (Machine Learning and deep Learning) <br/>
 <div align="center">
    <img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-EL-Badry&langs_count=12&count_private=True&layout=compact&theme=dark&hide_border=false&bg_color=000000"/>
  
-   <img alt="github status" src="https://github-readme-stats.vercel.app/api?username=Ali-EL-Badry&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars&theme=dark&bg_color=000000&hide_border=false&rank_icon=github&icon_color=FF8C00"/>
+   <img alt="github status" src="https://github-readme-stats.vercel.app/api?username=Ali-EL-Badry&show_icons=true&show=prs_merged,prs_merged_percentage&hide=stars&theme=dark&bg_color=000000&hide_border=false&rank_icon=github&icon_color=FF8C00"/>
 
 
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-EL-Badry/&theme=highcontrast" width="48%" >
