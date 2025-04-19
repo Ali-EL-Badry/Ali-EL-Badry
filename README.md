@@ -19,7 +19,7 @@
 <p align="center">
   <em>
     This is AI/ML ENG, Aly EL-Deen Yasser, a 2nd year undergraduate from <b>Cairo University</b>, Egypt, <br>
-    A budding <b>AI Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>Full Stack Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
@@ -30,16 +30,17 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="35"> <b> About Me.</b>
 
 - 🧑 To know about me you can visit [My Portfolio](https://alyelbadryportfolio.netlify.app/).
-- 👨‍💻 AI Engineer and Full Stack Developer.
-- 👾 A Problem solver on different Plateform like `Codeforce` and `Leet code`.
-- 🟣 A Dataset Expert on `Kaggle`.
 - ⌚ Currently : Taking training in `Data Science` in `DEPI`.
 - ⚡ Fun fact: I love making Arabic Poems `(She3r)`
+
+<br/>
+
 - 🔭 I’m currently working at :
-     - `EL-Badry plast` as Sales & Customer Representer 👨‍💼.
      - Founder in `Virtufirm`
+     - `EL-Badry plast` as Sales & Customer Representer 👨‍💼.
      - FreeLancer on `Freelancer` && `Upwork` && `Wuzzuf` 👨‍💻,
-     - Ai trainer on `Outlier` 🤖.
+<br/>
+
 - 💼 What I Work on btw:
    - `Satellitor 🌌` From `Alpha 5 🟣` team - `DEPI 🏙`
       -  Work As :
