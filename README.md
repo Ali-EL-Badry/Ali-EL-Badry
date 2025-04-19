@@ -8,7 +8,7 @@
 
 <p align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Founder+of+VirtuFirm;FCAI+Cairo+University+Student;AI+Engineer+and+Full-stack+Developer;Problem+Solver+on+Codeforces+and+Leetcode;Always+learning+new+things" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=FF8C00&weight=900&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Founder+of+VirtuFirm;FCAI+Cairo+University+Student;AI+Engineer+and+Full-stack+Developer;Problem+Solver+on+Codeforces+and+Leetcode;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <div align='center'>
    (صلِّ على سيدنا محمد)ﷺ.🤎✨
@@ -214,7 +214,7 @@ Data Modeling (Machine Learning and deep Learning) <br/>
 
 <div align="center">
    <a href="https://git.io/typing-svg">
-      <img alt="Thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=6fa8dc&size=30&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
+      <img alt="Thanks for your visit" src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=FF8C00&size=30&center=true&vCenter=true&width=300&lines=Thanks+for+your+visit!">
    </a>
 </div>
 
